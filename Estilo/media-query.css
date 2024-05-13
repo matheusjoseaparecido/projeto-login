@@ -42,6 +42,9 @@
 
     section#login > div#formulário {
         float: left;
+        position: relative;
+        top: -350px;
+        width: calc(950px - 50%);
     }
 
     div > h1 {
